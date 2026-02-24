@@ -1,0 +1,76 @@
+collections:
+  - id: personal-works
+    name: Personal Works
+images:
+  - path: personal-works/1.png
+    meta:
+      title: '1'
+      description: ''
+      collections:
+        - personal-works
+    exif:
+      shutterSpeed: .nan
+  - path: personal-works/2.png
+    meta:
+      title: '2'
+      description: ''
+      collections:
+        - personal-works
+    exif:
+      shutterSpeed: .nan
+  - path: personal-works/3.png
+    meta:
+      title: '3'
+      description: ''
+      collections:
+        - personal-works
+    exif:
+      shutterSpeed: .nan
+  - path: personal-works/4.png
+    meta:
+      title: '4'
+      description: ''
+      collections:
+        - personal-works
+    exif:
+      shutterSpeed: .nan
+  - path: personal-works/5.png
+    meta:
+      title: '5'
+      description: ''
+      collections:
+        - personal-works
+    exif:
+      shutterSpeed: .nan
+  - path: personal-works/6.png
+    meta:
+      title: '6'
+      description: ''
+      collections:
+        - personal-works
+    exif:
+      shutterSpeed: .nan
+  - path: personal-works/7.png
+    meta:
+      title: '7'
+      description: ''
+      collections:
+        - personal-works
+    exif:
+      shutterSpeed: .nan
+  - path: personal-works/8.png
+    meta:
+      title: '8'
+      description: ''
+      collections:
+        - personal-works
+    exif:
+      shutterSpeed: .nan
+  - path: personal-works/9.png
+    meta:
+      title: '9'
+      description: ''
+      collections:
+        - personal-works
+    exif:
+      shutterSpeed: .nan
