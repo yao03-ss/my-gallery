@@ -38,3 +38,16 @@ const { images } = Astro.props;
 <script>
 	import '../scripts/photo-grid';
 </script>
+<style is:global>
+  .photo-item {
+    width: 33.33% !important;
+    padding: 15px !important;  
+  }
+
+  @media (max-width: 768px) {
+    .photo-item {
+      width: 50% !important;
+      padding: 8px !important;
+    }
+  }
+</style>
