@@ -11,7 +11,7 @@ export default {
 	title: 'YAO',
 	favicon: 'favicon.ico',
 	owner: 'YAO PENG',
-	profileImage: 'profile.webp',
+	profileImage: 'me.jpg',
 	socialLinks: [
 		{
 			name: 'GitHub',
