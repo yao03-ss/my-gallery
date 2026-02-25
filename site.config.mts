@@ -8,7 +8,7 @@ export interface SocialLink {
 }
 
 export default {
-	title: 'YS',
+	title: 'YAO',
 	favicon: 'favicon.ico',
 	owner: 'YAO PENG',
 	profileImage: 'profile.webp',
