@@ -33,7 +33,7 @@ export const getStaticPaths = async () => {
 				<div class="flex flex-wrap gap-2 justify-center">
 					{
 						collections.map((collectionBtn) => (
-							<a href={`${base}/collections/${item.id}`} class="...">
+							<a href={`${base}/collections/${collectionBtn.id}`} class="...">
 								<div
 									class={`px-4 py-2 border ${
 										collectionBtn.id === collection
